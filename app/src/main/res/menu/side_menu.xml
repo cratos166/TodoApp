@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+           <item android:title="MindScape">
+
+
+                <group android:checkableBehavior="single">
+
+                    <item
+                        android:id="@+id/todo1"
+                        android:title="Todo1"
+                        android:icon="@drawable/note"
+                        />
+                    <item
+                        android:id="@+id/todo2"
+                        android:title="Todo2"
+                        android:icon="@drawable/note"
+                        />
+                    <item
+                        android:id="@+id/todo3"
+                        android:title="Todo3"
+                        android:icon="@drawable/note"
+                        />
+                    <item
+                        android:id="@+id/todo4"
+                        android:title="Todo4"
+                        android:icon="@drawable/note"
+                        />
+                    <item
+                        android:id="@+id/todo5"
+                        android:title="Todo5"
+                        android:icon="@drawable/note"
+                        />
+                    <item
+                        android:id="@+id/todo6"
+                        android:title="Todo6"
+                        android:icon="@drawable/note"
+                        />
+
+                </group>
+
+
+        </item>
+
+
+
+</menu>
